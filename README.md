@@ -12,6 +12,6 @@ These scripts make use of the following toolboxes:
 -  Aidan Murphy [@MonkeyGone2Heaven] 
 
 **Created by Dr Adam Jones  
-Department of Neurosurgery,  
-University of Iowa,  
+Department of Neurosurgery  
+University of Iowa  
 Iowa City IA, USA** 
