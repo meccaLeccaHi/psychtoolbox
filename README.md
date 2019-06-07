@@ -1,4 +1,4 @@
-# psychtoolbox
+# psychtoolbox_wrapper
 
 #### Matlab scripts for neuroscience/psychophysics experiments. 
 Sequential presentation of A/V movies, presented with photodiode patch to indicate onset/offset
